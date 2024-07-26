@@ -32,6 +32,6 @@ public class Pattern{
     {
         int n = 6;
         printPattern(n);
-        System.out.println("triggered once again ");
+        System.out.println("triggered once agains");
     }
 }
